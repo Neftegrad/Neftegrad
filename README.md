@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Begin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neftegrad&label=Profile%20views&color=0e75b6&style=flat" alt="neftegrad" /> </p>
 
@@ -19,4 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neftegrad&show_icons=true&locale=en" alt="neftegrad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neftegrad&" alt="neftegrad" /></p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neftegrad&theme=solarized_dark
+<p><img align="center" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neftegrad&theme=solarized_dark /></p>
